@@ -1,25 +1,25 @@
 # Thanawat Riencharoen - Associate Data Analyst Portfolio 
 
 ## About Me
-Hi!, my name is Thanawat Riencharoen am a recent gratudate BBA student at Srinakharinwirot and recently finish a Google data analysis s
+Hi! my name is Thanawat Riencharoen. I am a recent gratudate BBA student at Srinakharinwirot. I am currently working as a graphic designer and general manager in my mudiam-size printary family business which have about 30empoyees (Nakornluang Printing co.,ltd) so I am familiar with common data management and data analysis in Excel. I also implement Excel VBA and python to automate the Layout calculation and the OT calculation process. I am recently finish a Google Data Analysis Specialization course, which help me greater understand the basics of the data analysis process, such as data preparation, data cleaning, data analysis, and beable to use the common data analysis tools such as SQL and R language for querying and analyzing massive data sets to make a better data-driven decision.
 
 ## Data Analysis Projects
 ### Study Case: Analysis Cyclist Behavier
-Description: This is my analysis project for my google analysis capstone course, the data was provided for anaylisation
+This is my analysis project for my google analysis capstone course, the data was provided for anaylisation
 
-[See the project here](https://github.com/prinofprin/study_case_cyclist_analysis.git)
+Link: [See the project here](https://github.com/prinofprin/study_case_cyclist_analysis.git)
 
-### R
-Description:
-
-[See the project here](https://public.tableau.com/shared/TNCZ4W9GS?:display_count=n&:origin=viz_share_link)
+### Does rice cause obesity? Tableau Rice Consumption to Obesity Dashboard
 
 
-### Excel VBA 
-Description:
+Link: [See the project here](https://public.tableau.com/shared/TNCZ4W9GS?:display_count=n&:origin=viz_share_link)
+
+
+### Excel VBA, Layout Calculator for Paper Cutting | Coding Project
+
  
 
-[See the project here](https://github.com/prinofprin/excel_paper_layout_calculator.git)
+Link: [See the project here](https://github.com/prinofprin/excel_paper_layout_calculator.git)
 
 
 
