@@ -10,7 +10,9 @@ This is my analysis project for my google analysis capstone course, the data was
 Link: [See the project here](https://github.com/prinofprin/study_case_cyclist_analysis.git)
 
 ### Does rice cause obesity? Tableau Rice Consumption to Obesity Dashboard
+Recently, I was a fan of Intermediate fasting and the Keito diet which is to avoid eating sugar and carbohydrates and instead eat protein and good kinds of fat for a healthier diet. One of the food that Keito dieters want to avoid is rice. Rice was blamed as one of the main causes of obesity due to its high carbohydrates content which will turn into sugar after digestion. As a heavy rice eater myself, I would like to know whether I should stop eating rice or not, so I pull the data from IFO and relative sources to find the collation between rice and other foods consumption to obesity rate.
 
+Result: Contradict to what I heard, rice consumption has an inverse correlation with obesity rate while sugar and meat have a direct correlation. This means there is a correlation betweeen the country that consume more rice and the less obesity rate the country has. However, the dashboard only shows the correlation, not causation, so further analysis needed to determine the cause.
 
 Link: [See the project here](https://public.tableau.com/shared/TNCZ4W9GS?:display_count=n&:origin=viz_share_link)
 
