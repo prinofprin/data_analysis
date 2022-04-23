@@ -12,9 +12,11 @@ Link: [See the Study Case here](https://github.com/prinofprin/study_case_cyclist
 ______________________________________________________________________________________________________________________________________________________
 
 ### Excel VBA, Layout Calculator for Paper Cutting | Coding Project
-
+Working in a printery, one of the most delaying processes in the paper cutting process is layout planning. Every time the printery's required to cut paper to an extraordinary size paper, the paper cutting person has to calculate the most efficient way to cut the paper to get the most paper sheet out of it. The process can take 3-10 minutes every time the cutting person received the request. I think this layouting process can be automated by creating a layout calculator using the Excel VBA code.
 
 <a href="https://ibb.co/sjYRp4z"><img src="https://i.ibb.co/H784Ly3/layout-calculator-example.png" alt="layout-calculator-example" border="0"></a>
+
+The calculator only takes 2 inputs, the size of the original and the desired paper. Then it will calculate the maximum designed sheets you will get, the cutting layout, and the leftover paper dimension and percentage. You can view the code that makes this calculation work [here](https://github.com/prinofprin/excel_paper_layout_calculator/blob/048d3a03d3b329b48013322a9a982dbf5a2b343c/VBA%20code).
 
 <a href="https://ibb.co/4WkTsgF"><img src="https://i.ibb.co/nrpc38w/layout-calculator-details.png" alt="layout-calculator-details" border="0"></a>
  
