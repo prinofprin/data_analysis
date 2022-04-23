@@ -5,7 +5,7 @@ Hi! my name is Thanawat Riencharoen. I am a recent gratudate BBA student at Srin
 
 ## Data Analysis Projects
 ### Study Case: Analyze Cyclist Behavior
-This is my analysis for the Google analysis capstone study case, In the study case, the raw data of the historical bicycle trip was provided, and I have to use the data analysis process to explore the differences between two types of rider behavior, the causal riders, and the annual member riders, then I use that information to come up the recommendation plans base on the analysis.
+This is my analysis for the Google analysis capstone study case, In the study case, the raw data of the historical bicycle trip was provided, and I have to use the data analysis process to explore the differences between two types of rider behavior, the causal riders, and the annual member riders, then I use that information to come up the recommendation plans to convert the causal riders to the annual member plan base on the analysis.
 
 Link: [See the Study Case here](https://github.com/prinofprin/study_case_cyclist_analysis.git)
 ______________________________________________________________________________________________________________________________________________________
