@@ -1,14 +1,13 @@
 # Thanawat Riencharoen - Associate Data Analyst Portfolio 
 
 ## About Me
-Hi! my name is Thanawat Riencharoen. I am a recent gratudate BBA student at Srinakharinwirot. I am currently working as a graphic designer and general manager in my mudiam-size printary family business which have about 30empoyees (Nakornluang Printing co.,ltd) so I am familiar with common data management and data analysis in Excel. I also implement Excel VBA and python to automate the Layout calculation and the OT calculation process. I am recently finish a Google Data Analysis Specialization course, which help me greater understand the basics of the data analysis process, such as data preparation, data cleaning, data analysis, and beable to use the common data analysis tools such as SQL and R language for querying and analyzing massive data sets to make a better data-driven decision.
+Hi! my name is Thanawat Riencharoen. I am a recent gratudate BBA student at Srinakharinwirot. I am currently working as a graphic designer and general manager in my mudiam-size printary family business which have about 30empoyees (Nakornluang Printing co.,ltd) so I am familiar with common data management and data analysis in Excel. I also implement Excel VBA and python to automate the Layout calculation and the OT calculation process. I am recently finish a Google Data Analysis Specialization course, which help me greater understand the basics of the data analysis process, such as data preparation, data cleaning, data visualization, and beable to use the common data analysis tools such as SQL and R language for querying and analyzing massive data sets to make a data-driven decision.
 
 ## Data Analysis Projects
-### Study Case: Analysis Cyclist Behavier
-This is my analysis project for my google analysis capstone course, the data was provided for anaylisation
+### Study Case: Analyize Cyclist Behavier
+This is my analysis for Google analysis capstone study case, In the study case the raw data of the historical bicycle trip was provided and I have to use the data analysis process to explore the diffrences between two type of riders behaveier, the causal riders and the annaul member riders, then I use that infomation to come up the recommendation plans base on the analysis.
 
 Link: [See the Study Case here](https://github.com/prinofprin/study_case_cyclist_analysis.git)
-
 ______________________________________________________________________________________________________________________________________________________
 
 ### Excel VBA, Layout Calculator for Paper Cutting | Coding Project
