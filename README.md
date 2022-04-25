@@ -6,7 +6,7 @@ This portfolio contains my data analysis projects for the Google data analysis c
 - [Data Analysis Projects](#data-analysis-projects)
      + [Study Case: Analyze Cyclist Behavior](#study-case-analyze-cyclist-behavior)
      + [Excel VBA: Layout Calculator Codding Project](#excel-vba-layout-calculator-for-paper-cutting-coding-project)
-     + [Tableau Rice Consumption to Obesity Dashboard](#does-rice-cause-obesity-tableau-rice-consumption-to-obesity-dashboard)
+     + [Tableau: Rice Consumption to Obesity Dashboard](#does-rice-cause-obesity-tableau-rice-consumption-to-obesity-dashboard)
 - [Other Projects](#other-projects)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
