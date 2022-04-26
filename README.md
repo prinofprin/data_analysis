@@ -58,6 +58,7 @@ Result: Contradict to what Keito dieters believes, rice consumption has an inver
 ## Certificates
 - English Toeic Score: 935 [see_credential](https://github.com/prinofprin/analysis/blob/main/Toeic%20Certificate.png)
 - Google Data Analytics Specialization Certificate [see_credential](https://www.coursera.org/account/accomplishments/specialization/certificate/BGPLEZL2B57K)
+- Participate in UNICORN business canvas competition by SVL Group (2018)
 - Net design’s Adobe After Effect and Premier Pro course completion certified (2016)
 - Net design’s Adobe Illustrator and Photoshop course completion certified (2013)
 
