@@ -1,4 +1,4 @@
-# Thanawat Riencharoen - Associate Data Analyst Portfolio
+# Thanawat Riencharoen - Entry-Level Data Analyst Portfolio
 This portfolio contains my data analysis projects for the Google data analysis course, my related works, and other hobbies projects.
 
 ### Table of contents
